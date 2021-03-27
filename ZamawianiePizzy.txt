@@ -1,0 +1,65 @@
+{
+  "pizzas":
+  [
+    {
+      "name": "Hawajska",
+      "price": 21,
+      "ingredients": "Ananas, szynka, pieczarki"
+    },
+    {
+      "name": "Margherita",
+      "price": 19,
+      "ingredients": "Pomidory, mozzarella, bazylia, oliwa"
+    },
+    {
+      "name": "Vegetariana",
+      "price": 19,
+      "ingredients": "Pieczarki, papryka, cebula, kukurydza"
+    },
+    {
+      "name": "Salami",
+      "price": 19,
+      "ingredients": "Salami, mozzarella"
+    },
+    {
+      "name": "Capriciosa",
+      "price": 19,
+      "ingredients": "Szynka, pieczarki"
+    }
+  ]
+  "toppings":
+  [
+    {
+      "name": "Pomidory",
+      "price": 2
+    },
+    {
+      "name": "Ogórki",
+      "price": 2
+    },
+    {
+      "name": "Kukurydza",
+      "price": 1
+    },
+    {
+      "name": "Pieczarki",
+      "price": 1
+    },
+    {
+      "name": "Oregano",
+      "price": 0.50
+    },
+    {
+      "name": "Parmezan",
+      "price": 4
+    },
+    {
+      "name": "Cebula",
+      "price": 2
+    },
+    {
+      "name": "Ananas",
+      "price": 9
+    }
+  ]
+}
