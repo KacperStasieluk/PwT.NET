@@ -1,5 +1,4 @@
 {
-  "test": "testowanko",
   "pizzas":
   [
     {
@@ -32,7 +31,7 @@
   [
     {
       "name": "Pomidory",
-      "price": 2.50
+      "price": 2
     },
     {
       "name": "Ogórki",
