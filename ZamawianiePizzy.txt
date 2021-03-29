@@ -32,7 +32,7 @@
   [
     {
       "name": "Pomidory",
-      "price": 2
+      "price": 2.50
     },
     {
       "name": "Ogórki",
