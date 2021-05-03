@@ -1,0 +1,13 @@
+{
+  "scores":
+  [
+    {
+      "player": "Kacper",
+      "score": 99998
+    },
+    {
+      "player": "TestPlayer",
+      "score": 1235
+    }
+  ]
+}
